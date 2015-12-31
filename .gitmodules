@@ -1,0 +1,9 @@
+[submodule "roboto"]
+	path = deps/roboto
+	url = https://github.com/google/roboto.git
+[submodule "fonts"]
+	path = deps/fonts
+	url = https://github.com/google/fonts.git
+[submodule "woff2"]
+	path = deps/woff2
+	url = https://github.com/google/woff2.git
